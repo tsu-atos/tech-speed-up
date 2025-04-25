@@ -1,4 +1,8 @@
-# Fluxo da demonstração
+# Material usado para apresentação do tech speed up na Atos. 
+
+#### O tech speed up é uma apresentação técnica para todos os profissionais da empresa, de quaisquer setores, todo podem acessar e assistir simultaneamente via Microsoft Teams ou acompanhar a gravação em outro momento. 
+
+## Fluxo da demonstração
 
 1 - Clonar o repositório:
 - git clone https://github.com/seu-usuario/apresentacao-git-github.git
