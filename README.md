@@ -5,7 +5,7 @@
 ## Fluxo da demonstração
 
 1 - Clonar o repositório:
-- git clone https://github.com/bjlelis/apresentacao-git-github.git
+- git clone https://github.com/bjlelis/Repo-de-Apoio-para-Apresentacao-Git-GitHub.git
 - cd apresentacao-git-github
 
 2 - Criar um novo arquivo:
