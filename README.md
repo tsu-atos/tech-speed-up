@@ -36,3 +36,4 @@ Comandos Utilizados:
 Recursos para Aprendizado:
 - Pro Git Book - https://git-scm.com/book/pt-br/v2
 - GitHub Docs - https://docs.github.com/pt
+- Twitch Teomewhy - https://www.twitch.tv/teomewhy
